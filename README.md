@@ -28,7 +28,6 @@ Visera/pantalla facial diseñada para ser construida con materiales caseros e im
 El diseño está realizado en FreeCAD
 
 # Imágenes
-![show](https://1.bp.blogspot.com/-KHbE9EkTGlU/XnDR_iX0XYI/AAAAAAAAD1w/tLlWU66IeSM-9P5lm9MaA3_gy4TnAVJLACLcBGAsYHQ/s1600/imagen_visera.png)
-
-
+![show](images/CAD.png)
+![show](images/Version0.jpg)
 
