@@ -3,26 +3,18 @@ Visera/pantalla facial diseñada para ser construida con materiales caseros e im
 
 # Materiales empleados
     - Lámina policarbonato de 1mm (por comprobar si 0.5mm funciona igual)
-    - PLA impreso en 3D
-    - 3 tornillos M5x30 (o hasta unos 45mm) de cabeza hexagonal
-    - 3 tuercas M5
+    - PLA impreso en 3D (por ahora se requieren algo menos de 2 horas de impresión para un kit)
+    - 2 tornillos M5x30 (o hasta unos 45mm) de cabeza hexagonal
+    - 2 tuercas M5
  
 # STATUS
-    - Validando ergonomía
     - Buscando materiales alternativos para las tiras de sujección
     
 # TODO
-    - Dar hergonomía al cierre trasero
     - Documentar la construcción actual
 
-    
 # Log
-    19-Marzo 22:00 -> Reformadas todas las piezas. Creado cierre ajustable con rosca, reducido tamaño de tuercas y hebilla frontal. Construido prototipo físico versión 1
-    18-Marzo 20:00 -> Limpieza del archivo freecad, reexportación de stls y primer prototipo físico construido.
-    17-Marzo 22:00 -> Se actualiza modelo a correas de policarbonato de 1mmx10mm de ancho
-    17-Marzo 18:00 -> Se comprueba mediante prueba de impresión validez de la aproximación al diseño con tiras de policarbonato
-    17 Marzo inicio -> Concepto inicial, creación de repositorio y primer archivo con 3D parcial
-    
+    - movido a la descripción de los commit    
 
 # Varios
     El diseño está realizado en FreeCAD
@@ -30,5 +22,5 @@ Visera/pantalla facial diseñada para ser construida con materiales caseros e im
 
 # Imágenes
 ![show](images/CAD.png)
-![show](images/Version1.jpg)
+![show](images/Version2.jpg)
 
